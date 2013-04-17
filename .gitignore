@@ -1,3 +1,6 @@
+_daily.db
+secret.py
+
 *.py[cod]
 
 # C extensions
